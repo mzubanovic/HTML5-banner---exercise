@@ -1,0 +1,38 @@
+.carousel {
+	padding:30px;
+	background: url("../img/brick_wall1.png");
+	background-repeat:repeat-x;
+	width: 100%;
+    height: auto;
+    min-height: 220px;
+}
+.carousel li {
+	color:#fff; 
+	float:left;
+	font-weight:bold;
+	font-size:1em;
+	height:65px;
+	list-style:none;
+	padding:20px 0 0 0;
+	margin:10px 60px 20px 60px;
+	text-align:center;
+	width:160px;
+}
+.carousel li img {
+	max-width:120px;
+	height:auto;
+}
+li#logo {
+	width: 300px;
+    max-width: 300px;
+}
+#logo img {
+	margin-top: 4em;
+	width: 300px;
+    max-width: 300px;
+}
+a {
+	color:#fff200;
+	text-decoration: none;
+	font-family: Arial;
+}
